@@ -10,8 +10,7 @@
 Interactive visualization of FII values computed from peak discharge and flood duration (above 12.0m threshold) for major flood years: **1988, 1991, 1998, 2002, 2004, 2020**.
 
 📌 _FII Formula:_  
-\[
-\text{FII} = \frac{\text{Peak Discharge} \times \text{Duration Above Threshold}}{100}
+\[text{FII} = \frac{\text{Peak Discharge} \times \text{Duration Above Threshold}}{100}
 \]
 
 🔗 **Code**: [`fii_plotly.py`](scripts/FII.py)
