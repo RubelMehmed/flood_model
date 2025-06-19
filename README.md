@@ -1,3 +1,8 @@
+![Python Version](https://img.shields.io/badge/Python-3.10-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Project-Flood%20Model%20Simulation-success)
+![Last Update](https://img.shields.io/badge/Updated-June%202024-orange)
+
 # Flood Simulation Model
 
 ### 1. Flood Intensity Index (FII)
@@ -96,3 +101,8 @@ _Associate Professor, Dept. of Geography & Environment, Jahangirnagar University
 🏛 Roles: BNGA Office Secretary · JUTA Executive Member · JU Senate Member
 
 🔗 [Google Scholar](https://scholar.google.com/citations?user=tyS_C0YAAAAJ&hl=en)
+
+## 📄 License
+
+This project — including simulation plots, time-series visualizations, and flood model interpretations — is licensed under the [MIT License](LICENSE).  
+Authored by **Rubel Fakir** and **Dr. Muhammad Rezaul Rakib**, you are free to use, adapt, and share the materials with proper credit.
