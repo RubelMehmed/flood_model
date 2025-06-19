@@ -76,3 +76,23 @@ conda activate flood_model
 # Install required packages
 pip install pandas plotly seaborn matplotlib openpyxl
 ```
+
+## ✍️ Author
+
+**Rubel Fakir**  
+📍 Savar, Dhaka  
+📧 rubel.mehmut@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/rubelmehmed) | [GitHub](https://github.com/rubelmehmed)
+
+---
+
+## 👨‍🏫 Supervisor & Co-Author
+
+**Dr. Muhammad Rezaul Rakib**  
+_Associate Professor, Dept. of Geography & Environment, Jahangirnagar University_
+
+🎓 MSc in Flood Risk Management (University of Hull, UK — VC Scholar)  
+🧠 Expert in HEC-RAS, GIS, Remote Sensing, Riverbank Erosion, Climate Risk  
+🏛 Roles: BNGA Office Secretary · JUTA Executive Member · JU Senate Member
+
+🔗 [Google Scholar](https://scholar.google.com/citations?user=tyS_C0YAAAAJ&hl=en)
