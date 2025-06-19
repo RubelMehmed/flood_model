@@ -9,9 +9,9 @@ Interactive visualization of FII values computed from peak discharge and flood d
 \text{FII} = \frac{\text{Peak Discharge} \times \text{Duration Above Threshold}}{100}
 \]
 
-🔗 **Code**: [`fii_plotly.py`](scripts/fii.py)
+🔗 **Code**: [`fii_plotly.py`](scripts/FII.py)
 
-![FII Plot](plot/fii_plot.png)
+![FII Plot](plot/fii.png)
 
 ---
 
@@ -19,17 +19,18 @@ Interactive visualization of FII values computed from peak discharge and flood d
 
 Line chart showing yearly peak discharges, with extreme years highlighted for context.
 
+🔗 **Code**: [`discharge_plot.py`](scripts/fds.py)
+![Flood Discharge](plot/fds.png)
+
 🔗 **Code**: [`trend_analysis.py`](scripts/trend_analysis.py)
 
 ![Discharge Trend](plot/trend_afd.png)
 
 ---
 
-### 3. Flood Simulation Time Series (Daily)
+### 3. Flood Simulation Time Series
 
 Daily model outputs (columns A–E) plotted for each major flood year.
-
-🔗 **Code**: [`discharge_plot.py`](scripts/fds.py)
 
 #### 📆 1988 Flood Model Simulation
 
@@ -37,7 +38,7 @@ Daily model outputs (columns A–E) plotted for each major flood year.
 
 #### 📆 1991 Flood Model Simulation
 
-![Model 1991](plot/fms_1991.png)
+![Model 1991](plot/fms1991.png)
 
 #### 📆 1998 Flood Model Simulation
 
@@ -45,23 +46,17 @@ Daily model outputs (columns A–E) plotted for each major flood year.
 
 #### 📆 2002 Flood Model Simulation
 
-![Model 2002](plot/fms_2002.png)
+![Model 2002](plot/fsm_2002.png)
 
 #### 📆 2004 Flood Model Simulation
 
-![Model 2004](plot/fms_2004.png)
+![Model 2004](plot/fsm_2004.png)
 
 #### 📆 2020 Flood Model Simulation
 
-![Model 2020](plot/fms_2020.png)
+![Model 2020](plot/fsm_2020.png)
 
 ---
-
-### 3. Flood Simulation Time Series (by Year)
-
-Daily simulation plots for selected major flood years, based on model outputs for stations A–E.
-
-🔗 **Code**: [`discharge_plot.py`](scripts/fds.py)
 
 ## 📌 Data Source
 
