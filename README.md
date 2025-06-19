@@ -85,7 +85,8 @@ pip install pandas plotly seaborn matplotlib openpyxl
 ## ✍️ Author
 
 **Rubel Fakir**  
-📍 Savar, Dhaka  
+BSc in Geography and Environment  
+_Jahangirnagar University, Savar, Dhaka_  
 📧 rubel.mehmut@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/rubelmehmed) | [GitHub](https://github.com/rubelmehmed)
 
@@ -93,10 +94,10 @@ pip install pandas plotly seaborn matplotlib openpyxl
 
 ## 👨‍🏫 Supervisor & Co-Author
 
-**Dr. Muhammad Rezaul Rakib**  
+**Muhammad Rezaul Rakib**  
 _Associate Professor, Dept. of Geography & Environment, Jahangirnagar University_
 
-🎓 MSc in Flood Risk Management (University of Hull, UK — VC Scholar)  
+🎓 MSc in Flood Risk Management (University of Hull, UK)  
 🧠 Expert in HEC-RAS, GIS, Remote Sensing, Riverbank Erosion, Climate Risk  
 🏛 Roles: BNGA Office Secretary · JUTA Executive Member · JU Senate Member
 
@@ -105,4 +106,4 @@ _Associate Professor, Dept. of Geography & Environment, Jahangirnagar University
 ## 📄 License
 
 This project — including simulation plots, time-series visualizations, and flood model interpretations — is licensed under the [MIT License](LICENSE).  
-Authored by **Rubel Fakir** and **Dr. Muhammad Rezaul Rakib**, you are free to use, adapt, and share the materials with proper credit.
+Authored by **Rubel Fakir** and **Muhammad Rezaul Rakib**, you are free to use, adapt, and share the materials with proper credit.
